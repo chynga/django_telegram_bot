@@ -2,3 +2,4 @@ djangorestframework
 djangorestframework-simplejwt
 django-cors-headers
 python-telegram-bot
+requests
