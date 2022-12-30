@@ -27,7 +27,9 @@ SECRET_KEY = 'django-insecure--raee&&7cez%w@4pvio64&7^fq&9wl3eie^e^ml&dk5fze#j)f
 # SECURITY WARNING: don't run with debug turned on in production!
 DEBUG = True
 
-ALLOWED_HOSTS = []
+ALLOWED_HOSTS = [
+    'django-telegram-bot.herokuapp.com',
+]
 
 
 # Application definition
